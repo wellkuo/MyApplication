@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">計數器</string>
+    <string name="btn_counting">進入計數</string>
+    <string name="btn_data">進入資料</string>
+    <string name="btn_history">歷史紀錄</string>
+</resources>
